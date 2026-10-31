@@ -2,7 +2,7 @@
 
 ## The question we are asking
 
-Models are useful not because they fit training data, but because they can make predictions about new data. But how do we know whether a model will work on data it has never seen before?
+Models are useful because they can make predictions about new data. But how do we know whether a model will work on data it has never seen before?
 
 In these two modules, we look at two ways model evaluation can go wrong. First, we explore how a model can overfit its training data and how validation, early stopping, and regularization can help. Then we look at how related examples in biological data can make test performance look better than it really is.
 
